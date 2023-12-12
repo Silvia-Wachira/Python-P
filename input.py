@@ -4,6 +4,3 @@
 # print("Hi, " + name + ".")
 # print("Hi, %s." % name)
 # print("Hi, {0}.".format(name))
-#
-
- 
