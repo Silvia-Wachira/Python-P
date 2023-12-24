@@ -1,11 +1,8 @@
 # Arithmetic with strings
 
-a = "a"
-b = "b"
-an = "an"
+x = 25
+y = 17.1
 
-print(b + an)
-print(b + a*7)
-print(b + an*2 + a)
+print(x)
+print(y)
 
-print("$1" + ",000"*3)
