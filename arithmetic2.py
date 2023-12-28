@@ -23,5 +23,4 @@ x = 25
 y = 17.6
 
 print(x * y) 
- git add 
 
