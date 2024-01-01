@@ -17,5 +17,5 @@
 a = ['a', 'b', 'c']
 if (a):
     print(f'{a} is true') 
-else:
+else: 
     print(f'{a} is false')
