@@ -14,8 +14,8 @@
 # else:
 #     print("not a match")
 
-a = ['a', 'b', 'c']
-if (a):
-    print(f'{a} is true') 
-else: 
-    print(f'{a} is false')
+# a = ['a', 'b', 'c']
+# if (a):
+#     print(f'{a} is true') 
+# else: 
+#     print(f'{a} is false')
