@@ -18,4 +18,4 @@ a = ['a', 'b', 'c']
 if (a):
     print(f'{a} is true') 
 else:
-    print(f'{a} is false')  
+    print(f'{a} is false')
