@@ -26,6 +26,4 @@ c = "1"
 # for i in range(5):
 #     print('Carlita Cinco (' + str(i) +')')
 
- print('My name is ')   
- for i in range(3):
-    print("Lori")
+ 
