@@ -1,8 +1,8 @@
 # Python-P
 # Author
-Silvia Wachira 
+Silvia  Wachira 
 # Description
-This is a project creating the website of a business called Vallies Real Estate.
+This is a repository for leaning Python
 # Technologies Used
 *Python
 # Set Up Instructions
