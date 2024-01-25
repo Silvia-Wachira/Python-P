@@ -2,7 +2,7 @@
 # Author
 Silvia  Wachira 
 # Description
-This is a repository for leaning Python
+This is a repository for learning Python
 # Technologies Used
 *Python
 # Set Up Instructions
