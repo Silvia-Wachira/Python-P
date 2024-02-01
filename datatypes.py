@@ -3,13 +3,13 @@
 
 # specials = list()
 
-# print(1 in [1, 2, 3])
-# print(4 in [1, 2, 3])
+print(1 in [1, 2, 3])
+print(4 in [1, 2, 3])
 
-# time_locks = ('AM' , 'PM')
+time_locks = ('AM' , 'PM')
 
-# colors = 'red', 'yellow', 'purple'
-# numbers = 1, 2, 3
+colors = 'red', 'yellow', 'purple'
+numbers = 1, 2, 3
 
 complex = {
     'name': 'Bob Smith',
