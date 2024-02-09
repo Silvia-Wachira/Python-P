@@ -1,30 +1,15 @@
-# # a = {1, 2, 3}
-# # b = {3, 4, 5}
+posts = [
+    {"title": "All Aout Lists", "tags": ("fun", "informative", "lists")},
+    {"title": "Tuple Troule", "tags": ("fun", "tuples")},
+    {"title": "Sparkling Sets", "tags": ("informative", "numers")},
+]
 
-# # print(a)
-# # print(b)
+allTags = []
+for i in range(len(posts)):
+    print(posts[i] ["tags"])
+    allTags.extend(posts[i] ["tags"])
 
-# # print(a | b)
-# # print(a & b)
-
-# # print(a - b)
-# # print(b - a)
-# # print(a^b)
-# # print(a + b)
-
-# a = set('banana')
-# b = set('scarab')
-
-# print(a)
-# print(b)
-# print(a | b)
-# print(a.symmetric_difference(b))
-
-# print(a.union(b))
-# print(a.intersection(b))
-# print(a.difference(b))
-# print(b.difference(a))
-
-basket = ['apple', 'banana', 'apple', 'orange','pear', 'apple']
-print(basket)
-print(set(basket))
+print(allTags)
+allTags = list(set(allTags))
+allTags.sort()
+print(set(allTags))
