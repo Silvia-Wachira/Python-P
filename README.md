@@ -1,6 +1,6 @@
 # Python-P
 # Author
-Silvia J Wachira 
+Silvia W Wachira 
 # Description
 This is a repository for learning Python
 # Technologies Used
