@@ -12,4 +12,4 @@ for i in range(len(posts)):
 print(allTags)
 allTags = list(set(allTags))
 allTags.sort()
-print(set(allTags))
+print(set(allTags)) 
