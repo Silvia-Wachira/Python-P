@@ -1,27 +1,27 @@
-# users = [
-#     {'id':12323, 'displayName': 'Joe Smith', 'email': 'joe.smith@here.com'},
-#     {'id':22312, 'displayName': 'Bob Smith', 'email': 'bob.smith@here.com'},
-#     {'id':37373, 'displayName': 'angel chen', 'email': 'angel.cheng@here.com'},
+users = [
+    {'id':12323, 'displayName': 'Joe Smith', 'email': 'joe.smith@here.com'},
+    {'id':22312, 'displayName': 'Bob Smith', 'email': 'bob.smith@here.com'},
+    {'id':37373, 'displayName': 'angel chen', 'email': 'angel.cheng@here.com'},
 
-# ]
-# # print(users)
-
-# def sorter(user):
-#     return user['displayName'].lower()
-
-# users.sort(key=sorter)
+]
 # print(users)
 
-# reverseUsers = sorted(users, key=sorter, reverse=True)
-# print(reverseUsers)
+def sorter(user):
+    return user['displayName'].lower()
 
-# titles1 = ['Mr', 'Mrs', 'Ms']
-# titles2 = ['Mr', 'Mrs', 'Ms', '']
-# titles3 = []
+users.sort(key=sorter)
+print(users)
 
-# print(all(titles1))
-# print(all(titles2))
-# print(all(titles3))
+reverseUsers = sorted(users, key=sorter, reverse=True)
+print(reverseUsers)
+
+titles1 = ['Mr', 'Mrs', 'Ms']
+titles2 = ['Mr', 'Mrs', 'Ms', '']
+titles3 = []
+
+print(all(titles1))
+print(all(titles2))
+print(all(titles3))
 
 # feedBack1 = ['', '', '']
 # feedBack2 = ['So Much Fun', '', '']
