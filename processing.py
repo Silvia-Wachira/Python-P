@@ -83,9 +83,9 @@
 #     vowels = "aeiou"
 #     return letter.isalpha() and letter.lower() not in vowels
 
-consonants = [i for i in sentence if is_constant(i)]
-print(consonants)
+# consonants = [i for i in sentence if is_constant(i)]
+# print(consonants)
 
-original_prices = [1.25, -9.45, 10.22, 3.78, -5.92, 1.16]
-prices = [i if i > 0 else 0 for i in original_prices]
-print(prices)
+# original_prices = [1.25, -9.45, 10.22, 3.78, -5.92, 1.16]
+# prices = [i if i > 0 else 0 for i in original_prices]
+# print(prices)
