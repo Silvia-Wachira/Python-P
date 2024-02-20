@@ -1,0 +1,73 @@
+0000000000000000000000000000000000000000 1831be19f47ef67c71765abec9e73f9b4264a275 Silvia-Wachira <slywachira96@gmail.com> 1702212337 +0300	commit (initial): create a .py file
+1831be19f47ef67c71765abec9e73f9b4264a275 801f79f67a23c566525371735dc5585d238a028e Silvia-Wachira <slywachira96@gmail.com> 1702222242 +0300	commit: create a arithmetic.py file
+801f79f67a23c566525371735dc5585d238a028e fb20704193906ff97fb778169a63af6e8d38455f Silvia-Wachira <slywachira96@gmail.com> 1702222449 +0300	commit: create arithmetic strings
+fb20704193906ff97fb778169a63af6e8d38455f be358b08c41c563e39f8514553e8f82431b7c211 Silvia-Wachira <slywachira96@gmail.com> 1702304420 +0300	commit: comment
+be358b08c41c563e39f8514553e8f82431b7c211 9f49bd24ac5de68067e31d4ad5dd723819db80a9 Silvia-Wachira <slywachira96@gmail.com> 1702306008 +0300	commit: 0
+9f49bd24ac5de68067e31d4ad5dd723819db80a9 aa5b307390a677b59af9fadd649c55c44598e967 Silvia-Wachira <slywachira96@gmail.com> 1702372761 +0300	commit: 0
+aa5b307390a677b59af9fadd649c55c44598e967 6f1bc18e8a852a84941eff7dc83e3d1fe42b1076 Silvia-Wachira <slywachira96@gmail.com> 1702374314 +0300	commit: create variables
+6f1bc18e8a852a84941eff7dc83e3d1fe42b1076 4a831d8ee7d6f748a76b546d08ff01f53847901c Silvia-Wachira <slywachira96@gmail.com> 1702499329 +0300	commit: 0
+4a831d8ee7d6f748a76b546d08ff01f53847901c ea67f564c0c4d0acbf8f12e6d5c1a5d21342d9da Silvia-Wachira <slywachira96@gmail.com> 1702581448 +0300	commit: 0
+ea67f564c0c4d0acbf8f12e6d5c1a5d21342d9da 5d09aa3d1230d04839672afc43e4f138e61aee47 Silvia-Wachira <slywachira96@gmail.com> 1703413289 +0300	commit: create A float
+5d09aa3d1230d04839672afc43e4f138e61aee47 ef25e661be50ac834c1e643a52032f883d8be50c Silvia-Wachira <slywachira96@gmail.com> 1703479857 +0300	commit: 0
+ef25e661be50ac834c1e643a52032f883d8be50c b545c27557da7ed7e7160c9b875bbf4c02484d98 Silvia-Wachira <slywachira96@gmail.com> 1703616274 +0300	commit: perform arithmetic
+b545c27557da7ed7e7160c9b875bbf4c02484d98 7fe1cfb80428dae789bbf4b15147e45d01b568ba Silvia-Wachira <slywachira96@gmail.com> 1703617008 +0300	commit: 0
+7fe1cfb80428dae789bbf4b15147e45d01b568ba 922b3fc51ce70cf3a2cdcef3603da2f570754032 Silvia-Wachira <slywachira96@gmail.com> 1703657265 +0300	commit: 0
+922b3fc51ce70cf3a2cdcef3603da2f570754032 656156e5fd8f3c308eb107af285c967af5b1679e Silvia-Wachira <slywachira96@gmail.com> 1703786417 +0300	commit: add spaces
+656156e5fd8f3c308eb107af285c967af5b1679e e2e14b0dc72a8ea42c012553e84c88313f2b4094 Silvia-Wachira <slywachira96@gmail.com> 1703794062 +0300	commit: persorm assignments
+e2e14b0dc72a8ea42c012553e84c88313f2b4094 8c44c1fe3be282156ecc1378387fce8daa2cd711 Silvia-Wachira <slywachira96@gmail.com> 1703795371 +0300	commit: test equality
+8c44c1fe3be282156ecc1378387fce8daa2cd711 237d8d38dbf447ceac1baf38f7dfc0648629dcc2 Silvia-Wachira <slywachira96@gmail.com> 1703798135 +0300	commit: prove equality
+237d8d38dbf447ceac1baf38f7dfc0648629dcc2 b7b1bcc494093163763bf4b18e6eb9658330a1c1 Silvia-Wachira <slywachira96@gmail.com> 1703878433 +0300	commit: add space
+b7b1bcc494093163763bf4b18e6eb9658330a1c1 004cfbc84200a57578ba52fd1205bacd59bc9694 Silvia-Wachira <slywachira96@gmail.com> 1704128311 +0300	commit: add spaces
+004cfbc84200a57578ba52fd1205bacd59bc9694 9522351c661fbd54c9f41f545484a99f15870216 Silvia-Wachira <slywachira96@gmail.com> 1704128347 +0300	commit: remove spaces
+9522351c661fbd54c9f41f545484a99f15870216 37bac54bc7bfb74668e7ac82035f4e9453580a02 Silvia-Wachira <slywachira96@gmail.com> 1704128412 +0300	pull: Merge made by the 'ort' strategy.
+37bac54bc7bfb74668e7ac82035f4e9453580a02 96e3146984244c4f2fad621c56cfa013274e968f Silvia-Wachira <slywachira96@gmail.com> 1704143219 +0300	commit: create variables
+96e3146984244c4f2fad621c56cfa013274e968f 7c841c039532047388ebc17831a0c5f824ec0f28 Silvia-Wachira <slywachira96@gmail.com> 1704144167 +0300	commit: typecast
+7c841c039532047388ebc17831a0c5f824ec0f28 b2e151df795396d8da479d157916e398eac5829c Silvia-Wachira <slywachira96@gmail.com> 1704299590 +0300	commit: loop in js
+b2e151df795396d8da479d157916e398eac5829c cfc869a9a4c888cd62ba18172a833450f61c798b Silvia-Wachira <slywachira96@gmail.com> 1704393924 +0300	commit: 0
+cfc869a9a4c888cd62ba18172a833450f61c798b e63367da449fd3655cf68dec05ba8c7283d6173a Silvia-Wachira <slywachira96@gmail.com> 1704395169 +0300	commit: loop
+e63367da449fd3655cf68dec05ba8c7283d6173a 8d2ad1148ab5065509f3d7efdc5ad911f221ecdd Silvia-Wachira <slywachira96@gmail.com> 1704401752 +0300	commit: 0
+8d2ad1148ab5065509f3d7efdc5ad911f221ecdd 80e4294fcf915830283d64c279f291729fbd511f Silvia-Wachira <slywachira96@gmail.com> 1704878973 +0300	commit: handle error
+80e4294fcf915830283d64c279f291729fbd511f fdbfd9eb18891c771241e0464f6f006f799248fa Silvia-Wachira <slywachira96@gmail.com> 1705066501 +0300	commit: add space
+fdbfd9eb18891c771241e0464f6f006f799248fa 81af9f6710fcb0b559e0cba800c43003755bbea2 Silvia-Wachira <slywachira96@gmail.com> 1705066576 +0300	pull: Merge made by the 'ort' strategy.
+81af9f6710fcb0b559e0cba800c43003755bbea2 5ed7b397ff895891bd96af13aa95771b1fd570bf Silvia-Wachira <slywachira96@gmail.com> 1705165529 +0300	commit: add spaces
+5ed7b397ff895891bd96af13aa95771b1fd570bf b7fa7323ac42fa327c327b947d6b5844605b0c18 Silvia-Wachira <slywachira96@gmail.com> 1705230295 +0300	commit: 0
+b7fa7323ac42fa327c327b947d6b5844605b0c18 58c88188a5370088456fe42ef78b9ea8356a3c48 Silvia-Wachira <slywachira96@gmail.com> 1705343956 +0300	commit: remove
+58c88188a5370088456fe42ef78b9ea8356a3c48 ad3c64510be72f54bf29bc9edcb8b02357a7b9a2 Silvia-Wachira <slywachira96@gmail.com> 1705426678 +0300	commit: 0
+ad3c64510be72f54bf29bc9edcb8b02357a7b9a2 934d967f9c1bf56aef9c98bc27359fc80d1de00f Silvia-Wachira <slywachira96@gmail.com> 1705503738 +0300	commit: capitalize
+934d967f9c1bf56aef9c98bc27359fc80d1de00f 503ddc5b179274ede7eaee9379051d93a1e2a56a Silvia-Wachira <slywachira96@gmail.com> 1705604523 +0300	commit: create an else statement
+503ddc5b179274ede7eaee9379051d93a1e2a56a e83833202be16e2572217dd6861a33390a0825c7 Silvia-Wachira <slywachira96@gmail.com> 1705695073 +0300	commit: 0
+e83833202be16e2572217dd6861a33390a0825c7 8904e5ba59a7133d1c7adcc27bc2ecf3768dd404 Silvia-Wachira <slywachira96@gmail.com> 1705697480 +0300	commit: ucommet
+8904e5ba59a7133d1c7adcc27bc2ecf3768dd404 5e1b6599019300e8a6e242dff7d094f41e9d01f9 Silvia-Wachira <slywachira96@gmail.com> 1705698589 +0300	commit: 0
+5e1b6599019300e8a6e242dff7d094f41e9d01f9 864300f6d988ce12b7fbc78fce04e52a7d9b3c64 Silvia-Wachira <slywachira96@gmail.com> 1705854086 +0300	commit: 0
+864300f6d988ce12b7fbc78fce04e52a7d9b3c64 b16a19e205e6072e6be3e2b2a4a843481bf0c589 Silvia-Wachira <slywachira96@gmail.com> 1705937188 +0300	commit: commet
+b16a19e205e6072e6be3e2b2a4a843481bf0c589 af92f11c28a21e9498d458ee9b949007eea75431 Silvia-Wachira <slywachira96@gmail.com> 1706036276 +0300	commit: 0
+af92f11c28a21e9498d458ee9b949007eea75431 56eefbcafeea38b4acfc872370a0a70cd2529302 Silvia-Wachira <slywachira96@gmail.com> 1706040073 +0300	pull: Merge made by the 'ort' strategy.
+56eefbcafeea38b4acfc872370a0a70cd2529302 d67fd2ce5438d91e77ae02a00fe082004685b830 Silvia-Wachira <slywachira96@gmail.com> 1706114084 +0300	commit: create a file
+d67fd2ce5438d91e77ae02a00fe082004685b830 5b59a297c5495749dce1ccaa456f6e1eaff7c774 Silvia-Wachira <slywachira96@gmail.com> 1706294286 +0300	commit: make changes
+5b59a297c5495749dce1ccaa456f6e1eaff7c774 5aa0a86be846e4447d64078bf02edb1350f3636a Silvia-Wachira <slywachira96@gmail.com> 1706294328 +0300	pull: Merge made by the 'ort' strategy.
+5aa0a86be846e4447d64078bf02edb1350f3636a 60ece7fcacf9715beb17b27854ba29a046c94b9f Silvia-Wachira <slywachira96@gmail.com> 1706450557 +0300	commit: ucommet
+60ece7fcacf9715beb17b27854ba29a046c94b9f d63569094edb36a1baf81adce4aff0a17cbfce64 Silvia-Wachira <slywachira96@gmail.com> 1706451036 +0300	pull: Merge made by the 'ort' strategy.
+d63569094edb36a1baf81adce4aff0a17cbfce64 ce01eeaeed136c6bbbc71a2419b07c64f6411c17 Silvia-Wachira <slywachira96@gmail.com> 1706645830 +0300	commit: 0
+ce01eeaeed136c6bbbc71a2419b07c64f6411c17 0a5f3449d6361d9a5a7840cc38319952f809c045 Silvia-Wachira <slywachira96@gmail.com> 1706727636 +0300	commit: create key value pairs
+0a5f3449d6361d9a5a7840cc38319952f809c045 719f069c505e14a88d288eab1f7b96ff5f8d1494 Silvia-Wachira <slywachira96@gmail.com> 1706733696 +0300	commit: create files
+719f069c505e14a88d288eab1f7b96ff5f8d1494 5de7247b049dd8f2feb2f597d802cd9b0accf409 Silvia-Wachira <slywachira96@gmail.com> 1706820928 +0300	commit: create a tuple
+5de7247b049dd8f2feb2f597d802cd9b0accf409 d911f0cc1488e340236ba7b88b36d8fce025d5e4 Silvia-Wachira <slywachira96@gmail.com> 1706820984 +0300	pull: Merge made by the 'ort' strategy.
+d911f0cc1488e340236ba7b88b36d8fce025d5e4 5a2281384aad3ecb2ffab499833760451873105b Silvia-Wachira <slywachira96@gmail.com> 1706886305 +0300	commit: create a lists file
+5a2281384aad3ecb2ffab499833760451873105b a43dee7ca7729719c264b26015d3dcfe52cf0c91 Silvia-Wachira <slywachira96@gmail.com> 1706911663 +0300	commit: create a tuples file
+a43dee7ca7729719c264b26015d3dcfe52cf0c91 9e509a28e7b97e8ce2e3d14c71dc13deba1fa71a Silvia-Wachira <slywachira96@gmail.com> 1707079159 +0300	commit: create a rages file
+9e509a28e7b97e8ce2e3d14c71dc13deba1fa71a f835200e26b6ed69c3d02cd58ddc9bb1ef78345d Silvia-Wachira <slywachira96@gmail.com> 1707079188 +0300	pull: Merge made by the 'ort' strategy.
+f835200e26b6ed69c3d02cd58ddc9bb1ef78345d 81075b47c8f9393602be879cca7b88f12cb7a345 Silvia-Wachira <slywachira96@gmail.com> 1707144026 +0300	commit: create dictiaries .py file
+81075b47c8f9393602be879cca7b88f12cb7a345 38e8c44ee68861901da67d4b6cb04dcd2342f119 Silvia-Wachira <slywachira96@gmail.com> 1707249005 +0300	commit: create a sets.py file
+38e8c44ee68861901da67d4b6cb04dcd2342f119 3ff68783a8d694f724753e8d4e79277774c2412d Silvia-Wachira <slywachira96@gmail.com> 1707508370 +0300	commit: create spaces
+3ff68783a8d694f724753e8d4e79277774c2412d 42b1fb27420a951f67748e86dec55bcb1c60f2d9 Silvia-Wachira <slywachira96@gmail.com> 1707508392 +0300	pull: Merge made by the 'ort' strategy.
+42b1fb27420a951f67748e86dec55bcb1c60f2d9 d3b09cdcc3ab94993f90cb2071414b7eaf356815 Silvia-Wachira <slywachira96@gmail.com> 1707768442 +0300	commit: create sets
+d3b09cdcc3ab94993f90cb2071414b7eaf356815 5c8254e3ded5249683e336434b22b3d2d335404f Silvia-Wachira <slywachira96@gmail.com> 1707852623 +0300	commit: create a processinng.py file
+5c8254e3ded5249683e336434b22b3d2d335404f b355aa2d047ed449275f08bc8398e2aeec2bfb37 Silvia-Wachira <slywachira96@gmail.com> 1707852646 +0300	pull: Merge made by the 'ort' strategy.
+b355aa2d047ed449275f08bc8398e2aeec2bfb37 d3d697a071c690125b2b94ed159ef5b626b5650d Silvia-Wachira <slywachira96@gmail.com> 1708102253 +0300	commit: sort users via display ame
+d3d697a071c690125b2b94ed159ef5b626b5650d 34dc38d22761204d46afe320397c3c753027acb3 Silvia-Wachira <slywachira96@gmail.com> 1708110403 +0300	commit: create list comprehensions
+34dc38d22761204d46afe320397c3c753027acb3 00f7f709a42340cfcbd136b2c240ba11ca3fb5e8 Silvia-Wachira <slywachira96@gmail.com> 1708173676 +0300	commit: comment
+00f7f709a42340cfcbd136b2c240ba11ca3fb5e8 19170ee78a2594582c3d3bf6bba64d8869c75adb Silvia-Wachira <slywachira96@gmail.com> 1708173695 +0300	pull: Merge made by the 'ort' strategy.
+19170ee78a2594582c3d3bf6bba64d8869c75adb 0058aa1fd7cb94dff0a82b2c4fce1c8d723098d8 Silvia-Wachira <slywachira96@gmail.com> 1708287277 +0300	commit: create a stackqueue.py file
+0058aa1fd7cb94dff0a82b2c4fce1c8d723098d8 0a2fe6f5baedf888a12102ba45b608f6c4604b9c Silvia-Wachira <slywachira96@gmail.com> 1708287466 +0300	commit: create a variable teller
+0a2fe6f5baedf888a12102ba45b608f6c4604b9c 2c8853e2e4661295e73e1d9546c6bbd0164e7526 Silvia-Wachira <slywachira96@gmail.com> 1708375207 +0300	commit: create inner functions
+2c8853e2e4661295e73e1d9546c6bbd0164e7526 ee75119299244168ce8edc6f5366388947a94475 Silvia-Wachira <slywachira96@gmail.com> 1708406436 +0300	commit: create a file
