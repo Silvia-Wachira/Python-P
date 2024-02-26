@@ -41,4 +41,4 @@ print(expense.total())
 
 invoice.add_items(fee)
 invoice.add_items(expense)
-print(invoice.total())  
+print(invoice.total())   
