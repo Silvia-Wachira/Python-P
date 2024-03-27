@@ -4,7 +4,7 @@ Silvia Wachira
 # Description
 This is a repository for learning Python
 # Technologies Used
-*Python 
+*Python  
 # Set Up Instructions
 * Open terminal command line[ctrl+alt+t]<br>
 * Clone the repository<br>
