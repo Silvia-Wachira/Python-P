@@ -29,4 +29,4 @@ print(reversedColors)
 print(reversedAlpha)
 
 print(list(reversedColors))
-print(list(reversedAlpha))
+print(list(reversedAlpha)) 
