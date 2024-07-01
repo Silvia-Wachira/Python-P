@@ -15,6 +15,7 @@
 
 colors = ['red', 'orange', 'blue', 'pink']
 
+
 alphabetical = sorted(colors)
 print(colors)
 print(alphabetical)
@@ -29,4 +30,4 @@ print(reversedColors)
 print(reversedAlpha)
 
 print(list(reversedColors))
-print(list(reversedAlpha)) 
+print(list(reversedAlpha))  
