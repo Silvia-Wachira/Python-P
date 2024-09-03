@@ -23,13 +23,22 @@
 # player = dict(zip(keys, values))
 # print(dir(player))
 
-spam = {'color': 'red', 'age': 42}
-for v in spam.values ():
-    print(v)
+# spam = {'color': 'red', 'age': 42}
+# for v in spam.values ():
+#     print(v)
 
-for k in spam.keys():
-    print(k)
+# for k in spam.keys():
+#     print(k)
 
 
-for k, v in spam.items():
-    print('Key: ' + k + ' Value: ' + str(v))
+# for k, v in spam.items():
+#     print('Key: ' + k + ' Value: ' + str(v))
+
+player_number = {"Messi": 10, "Ronaldo": 7, "Salah": 11}
+
+# player_number["Pogba"] = 6
+# print(player_number)
+# del player_number["Ronaldo"]
+# print(player_number)
+del player_number
+print(player_number)
